@@ -11,7 +11,8 @@
 |无聊| 无聊| 无聊啊| 想死|死了...|
 
 
- <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1933598&auto=1&height=66"></iframe>
+
 
 > 可笑
 
