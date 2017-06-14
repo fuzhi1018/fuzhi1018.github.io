@@ -13,8 +13,8 @@
 <embed src="//music.163.com/style/swf/widget.swf?sid=409654891&type=2&auto=1&width=278&height=32" width="298" height="52"  allowNetworking="all"></embed>
 
 
-> 可笑![p1](https://github.com/fuzhi1018/fuzhi1018.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720170614153203.gif?raw=true)
+> 可笑![p1](https://github.com/fuzhi1018/fuzhi1018.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720170614153203.gif?raw=true=300*100)
 
-![pic](https://github.com/fuzhi1018/fuzhi1018.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720170614133624.jpg?raw=true)
+![pic](https://github.com/fuzhi1018/fuzhi1018.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720170614133624.jpg?raw=true=500*500)
 
 ### 你说呢？
