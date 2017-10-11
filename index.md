@@ -22,4 +22,4 @@
 
 ---
 
-fuzhi1018.github.io /README.md
+http://fuzhi1018.github.io/README.md
